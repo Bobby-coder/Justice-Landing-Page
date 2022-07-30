@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is a code repository for the Street Style Landing Page.
+This is a code repository for the Justice Landing Page.
 
 ## Time taken to finish this project
 
